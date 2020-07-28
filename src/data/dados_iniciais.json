@@ -5,7 +5,7 @@
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
@@ -47,7 +47,7 @@
       "titulo": "Filmes",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
+        "text": "",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
@@ -81,7 +81,7 @@
       "titulo": "Séries",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
+        "text": "",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
