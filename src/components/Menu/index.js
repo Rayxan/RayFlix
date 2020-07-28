@@ -8,7 +8,7 @@ import Button from '../Button';
 function Menu(){
     return(
         <nav className="Menu">
-            <Link to="/cadastro/video">
+            <Link to="/">
                 <img className="Logo" src= {Logo} alt="RayFlix logo"></img>
             </Link>
 
