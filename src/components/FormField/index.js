@@ -16,10 +16,10 @@ const Label = styled.label``;
 
 Label.Text = styled.span`
   color: #E5E5E5;
-  height: 57px;
+  height: 39px;
   position: absolute; 
   top: 0;
-  left: 16px;
+  left: 2px;
   
   display: flex;
   align-items: center;

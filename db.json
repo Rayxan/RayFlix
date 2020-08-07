@@ -1,16 +1,175 @@
 {
-    "categorias":[
-        {
-            "id": 1,
-            "nome": "Front End",
-            "descricao": "Uma categoria",
-            "cor": "#cbd1ff"
+    "categorias": [
+      {
+        "id": 1,
+        "titulo": "Animes",
+        "link": "https://www.alura.com.br/formacao-front-end",
+        "cor": "red",
+        "link_extra": {
+          "text": "",
+          "url": "https://www.alura.com.br/cursos-online-front-end"
+        }
         },
         {
-            "id": 2,
-            "nome": "Back End",
-            "descricao": "Uma categoria",
-            "cor": "#cbd1ff"
+          "id": 2,
+          "titulo": "Filmes",
+          "cor": "#00C86F",
+          "link_extra": {
+            "text": "",
+            "url": "https://www.alura.com.br/cursos-online-programacao"
+          }
+        },
+        {
+          "id": 3,
+          "titulo": "Séries",
+          "cor": "#9cd33b",
+          "link_extra": {
+            "text": "",
+            "url": "https://www.alura.com.br/formacao-data-science"
+          }
+        },
+        {
+          "id": 4,
+          "titulo": "Animações",
+          "cor": "orange",
+          "link_extra": {
+            "text": "",
+            "url": "https://www.alura.com.br/formacao-data-science"
+          }
         }
-    ]
+    ],
+      "videos": [
+        {
+          "id": 1,
+          "categoriaId": 1,
+          "titulo": "Um anime que aborda sua história de forma única.",
+          "url": "https://www.youtube.com/watch?v=mQAfG3DgG7M"
+        },
+        {
+          "id": 2,
+          "categoriaId": 1,
+          "titulo": "Your lie in April",
+          "url": "https://www.youtube.com/watch?v=5_iuNaULT5k"
+        },
+        {
+          "id": 3,
+          "categoriaId": 1,
+          "titulo": "Ano Hana",
+          "url": "https://www.youtube.com/watch?v=x8fvwC5xVGg"
+        },
+        {
+          "id": 4,
+          "categoriaId": 1,
+          "titulo": "Hunter x Hunter",
+          "url": "https://www.youtube.com/watch?v=Txl2imn11bM"
+        },
+        {
+          "id": 5,
+          "categoriaId": 1,
+          "titulo": "JOJO",
+          "url": "https://www.youtube.com/watch?v=Ubve8INYEws"
+        },
+        {
+          "id": 6,
+          "categoriaId": 1,
+          "titulo": "Erased",
+          "url": "https://www.youtube.com/watch?v=Y9G20wV0KHE"
+        },
+        {
+          "id": 7,
+          "categoriaId": 1,
+          "titulo": "Death Note",
+          "url": "https://www.youtube.com/watch?v=NlJZ-YgAt-c&t=8s"
+        },
+        {
+          "id": 8,
+          "categoriaId": 1,
+          "titulo": "Garden of Words",
+          "url": "https://www.youtube.com/watch?v=xnLaOqqtCKs"
+        },        
+        {
+          "id": 9,
+          "categoriaId": 2,
+          "titulo": "A vida é bela",
+          "url": "https://www.youtube.com/watch?v=pAYEQP8gx3w"
+        },
+        {
+          "id": 10,
+          "categoriaId": 2,
+          "titulo": "Um contratempo",
+          "url": "https://www.youtube.com/watch?v=4DTjlmNYMEo"
+        },
+        {
+          "id": 11,
+          "categoriaId": 2,
+          "titulo": "Invasores nenhum sistema está à salvo",
+          "url": "https://www.youtube.com/watch?v=5vnjheCqRIs"
+        },
+        {
+          "id": 12,
+          "categoriaId": 2,
+          "titulo": "The Hunt",
+          "url": "https://www.youtube.com/watch?v=ieLIOBkMgAQ"
+        }, 
+        {
+          "id": 13,
+          "categoriaId": 2,
+          "titulo": "Remember me",
+          "url": "https://www.youtube.com/watch?v=1oEp75fxTm0"
+        },
+        {
+          "id": 14,
+          "categoriaId": 2,
+          "titulo": "Brilho eterno de uma mente sem lembranças",
+          "url": "https://www.youtube.com/watch?v=hZdl2FFp0eA"
+        },
+        {
+          "id": 15,
+          "categoriaId": 3,
+          "titulo": "Game of Thrones",
+          "url": "https://www.youtube.com/watch?v=gcTkNV5Vg1E"
+        },
+        {
+          "id": 16,
+          "categoriaId": 3,
+          "titulo": "Breaking Bad ",
+          "url": "https://www.youtube.com/watch?v=ceqOTZnhgY8"
+        },
+        {
+          "id": 17,
+          "categoriaId": 3,
+          "titulo": "Dexter",
+          "url": "https://www.youtube.com/watch?v=YQeUmSD1c3g"
+        },
+        {
+          "id": 18,
+          "categoriaId": 3,
+          "titulo": "True Detective",
+          "url": "https://www.youtube.com/watch?v=p4zluA60hjs"
+        },
+        {
+          "id": 19,
+          "categoriaId": 3,
+          "titulo": "Doctor Who",
+          "url": "https://www.youtube.com/watch?v=qrEUBl2pacU"
+        },
+        {
+          "id": 20,
+          "categoriaId": 4,
+          "titulo": "Rick and Morty",
+          "url": "https://www.youtube.com/watch?v=hl1U0bxTHbY"
+        },
+        {
+          "id": 21,
+          "categoriaId": 4,
+          "titulo": "Family Guy",
+          "url": "https://www.youtube.com/watch?v=wwoq3o_yNMw"
+        },
+        {
+          "id": 22,
+          "categoriaId": 4,
+          "titulo": "South Park",
+          "url": "https://www.youtube.com/watch?v=XrEIOSf9Sw4"
+        }
+        ]
 }

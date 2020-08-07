@@ -5,18 +5,18 @@ import './Menu.css';
 import Button from '../Button';
 // import ButtonLink from '../ButtonLink';
 
-function Menu(){
-    return(
-        <nav className="Menu">
-            <Link to="/">
-                <img className="Logo" src= {Logo} alt="RayFlix logo"></img>
-            </Link>
+function Menu() {
+  return (
+    <nav className="Menu">
+      <Link to="/">
+        <img className="Logo" src={Logo} alt="RayFlix logo" />
+      </Link>
 
-            <Button as={Link} className="ButtonLink" to="/cadastro/video">
-                Novo vídeo
-            </Button>
-        </nav>
-    );
+      <Button as={Link} className="ButtonLink" to="/cadastro/video">
+        Novo vídeo
+      </Button>
+    </nav>
+  );
 }
 
 export default Menu;
