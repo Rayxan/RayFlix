@@ -9,3 +9,12 @@ Um projeto de uma biblioteca de vídeos para serem utilizados durante a indicaç
 Nas páginas da aplicação você irá encontrar as seguintes páginas:
 
 ### `Tela principal`
+![ScreenShot](https://raw.github.com/Rayxan/RayFlix/master/img/1.png)
+
+![ScreenShot](https://raw.github.com/Rayxan/RayFlix/master/img/2.png)
+
+### `Cadastro de vídeo`
+![ScreenShot](https://raw.github.com/Rayxan/RayFlix/master/img/1.png)
+
+### `Cadastro de Categoria`
+![ScreenShot](https://raw.github.com/Rayxan/RayFlix/master/img/1.png)
