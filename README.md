@@ -14,7 +14,7 @@ Nas páginas da aplicação você irá encontrar as seguintes páginas:
 ![ScreenShot](https://raw.github.com/Rayxan/RayFlix/master/img/2.png)
 
 ### `Cadastro de vídeo`
-![ScreenShot](https://raw.github.com/Rayxan/RayFlix/master/img/1.png)
+![ScreenShot](https://raw.github.com/Rayxan/RayFlix/master/img/3.png)
 
 ### `Cadastro de Categoria`
-![ScreenShot](https://raw.github.com/Rayxan/RayFlix/master/img/1.png)
+![ScreenShot](https://raw.github.com/Rayxan/RayFlix/master/img/4.png)
