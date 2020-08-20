@@ -9,3 +9,4 @@ Um projeto de uma biblioteca de vídeos para serem utilizados durante a indicaç
 Nas páginas da aplicação você irá encontrar as seguintes páginas:
 
 ### `Tela principal`
+ro
