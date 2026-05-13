@@ -15,11 +15,11 @@
         },
         {
           "titulo": "Your lie in April",
-          "url": "https://www.youtube.com/watch?v=5_iuNaULT5k"
+          "url": "https://www.youtube.com/watch?v=fWRPihlt2ho&list=RDfWRPihlt2ho&start_radio=1"
         },
         {
           "titulo": "Ano Hana",
-          "url": "https://www.youtube.com/watch?v=x8fvwC5xVGg"
+          "url": "https://www.youtube.com/watch?v=oDWkt8wcYh8"
         },
         {
           "titulo": "Hunter x Hunter",
@@ -31,7 +31,7 @@
         },
         {
           "titulo": "Erased",
-          "url": "https://www.youtube.com/watch?v=Y9G20wV0KHE"
+          "url": "https://www.youtube.com/watch?v=DwmxEAWjTQQ"
         },
         {
           "titulo": "Death Note",
@@ -51,6 +51,10 @@
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
+        {
+          "titulo": "One day",
+          "url": "https://www.youtube.com/watch?v=KaKgURUoYwc"
+        },
         {
           "titulo": "A vida é bela",
           "url": "https://www.youtube.com/watch?v=pAYEQP8gx3w"
@@ -74,6 +78,10 @@
         {
           "titulo": "Brilho eterno de uma mente sem lembranças",
           "url": "https://www.youtube.com/watch?v=hZdl2FFp0eA"
+        },
+        {
+          "titulo": "A origem",
+          "url": "https://www.youtube.com/watch?v=YoHD9XEInc0"
         }
       ]
     },
@@ -91,7 +99,7 @@
         },
         {
           "titulo": "Breaking Bad ",
-          "url": "https://www.youtube.com/watch?v=ceqOTZnhgY8"
+          "url": "https://www.youtube.com/watch?v=_ykOTpzuZN0&list=RD_ykOTpzuZN0&start_radio=1"
         },
         {
           "titulo": "Dexter",
@@ -120,8 +128,8 @@
           "url": "https://www.youtube.com/watch?v=hl1U0bxTHbY"
         },
         {
-          "titulo": "Family Guy",
-          "url": "https://www.youtube.com/watch?v=wwoq3o_yNMw"
+          "titulo": "Smiling Friends",
+          "url": "https://www.youtube.com/watch?v=bUQ91Jkqiw4"
         },
         {
           "titulo": "South Park",

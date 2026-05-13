@@ -49,13 +49,13 @@
           "id": 2,
           "categoriaId": 1,
           "titulo": "Your lie in April",
-          "url": "https://www.youtube.com/watch?v=5_iuNaULT5k"
+          "url": "https://www.youtube.com/watch?v=fWRPihlt2ho&list=RDfWRPihlt2ho&start_radio=1"
         },
         {
           "id": 3,
           "categoriaId": 1,
           "titulo": "Ano Hana",
-          "url": "https://www.youtube.com/watch?v=x8fvwC5xVGg"
+          "url": "https://www.youtube.com/watch?v=oDWkt8wcYh8"
         },
         {
           "id": 4,
@@ -73,7 +73,7 @@
           "id": 6,
           "categoriaId": 1,
           "titulo": "Erased",
-          "url": "https://www.youtube.com/watch?v=Y9G20wV0KHE"
+          "url": "https://www.youtube.com/watch?v=DwmxEAWjTQQ"
         },
         {
           "id": 7,
@@ -133,7 +133,7 @@
           "id": 16,
           "categoriaId": 3,
           "titulo": "Breaking Bad ",
-          "url": "https://www.youtube.com/watch?v=ceqOTZnhgY8"
+          "url": "https://www.youtube.com/watch?v=_ykOTpzuZN0&list=RD_ykOTpzuZN0&start_radio=1"
         },
         {
           "id": 17,
@@ -162,8 +162,8 @@
         {
           "id": 21,
           "categoriaId": 4,
-          "titulo": "Family Guy",
-          "url": "https://www.youtube.com/watch?v=wwoq3o_yNMw"
+          "titulo": "Smiling Friends",
+          "url": "https://www.youtube.com/watch?v=bUQ91Jkqiw4"
         },
         {
           "id": 22,
